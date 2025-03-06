@@ -17,5 +17,6 @@
 	"description" : {
 		"us": "Usa tus habilidades con numpy, pandas y matplotlib para practicar un poco sobre probabilidades.",
 		"es": ""
-	}
+	},
+	"gitpod":true
 }
