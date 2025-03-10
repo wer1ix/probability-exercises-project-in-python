@@ -16,7 +16,8 @@
     	"projectType": "project",
 	"autoStart": false,
 	"description" : {
-		"us": "Usa tus habilidades con numpy, pandas y matplotlib para practicar un poco sobre probabilidades.",
-		"es": ""
-	}
+		"us": "Use your skills with numpy, pandas, and matplotlib to practice some probability concepts.",
+    		"es": "Usa tus habilidades con numpy, pandas y matplotlib para practicar un poco sobre probabilidades."
+	},
+	"gitpod":true
 }
