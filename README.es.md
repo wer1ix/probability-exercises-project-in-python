@@ -22,14 +22,14 @@ Sigue las siguientes instrucciones:
     - Haz clic en **"Select Kernel"** (como se muestra en la imagen).       
 
 
-![image-kernel](assets/image-kernel.png)
+![image-kernel]([assets/image-kernel.png](https://github.com/4GeeksAcademy/probability-exercises-project-in-python/blob/main/assets/image-kernel.png?raw=true))
 
 3. Se mostrará una lista con las opciones disponibles. Selecciona **"Python Environments"** y elige la versión de Python que deseas utilizar.  
 
     - Asegúrate de seleccionar la versión especificada en el archivo `devcontainer.json`, ya que esta es la recomendada para el proyecto.
 
 
-![image-devcontainer](assets/devcontainer-image.png)
+![image-devcontainer](https://github.com/4GeeksAcademy/probability-exercises-project-in-python/blob/main/assets/devcontainer-image.png?raw=true)
 
 > Nota: También incorporamos muestras de solución en `./src/solutions.ipynb` que te sugerimos que solo uses si estás atascado por más de 30 minutos o si ya has terminado y quieres compararlo con tu enfoque.
 
