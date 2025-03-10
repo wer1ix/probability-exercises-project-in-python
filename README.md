@@ -21,13 +21,13 @@ Follow the instructions below:
     - When you open the notebook, a message will appear at the top indicating **"Select Kernel"**.
     - Click on **"Select Kernel"** (as shown in the image).
 
-![image-kernel](assets/image-kernel.png)
+![image-kernel](https://github.com/4GeeksAcademy/probability-exercises-project-in-python/blob/main/assets/image-kernel.png?raw=true)
 
 3. A list with available options will be displayed. Select **"Python Environments"** and choose the Python version you want to use.
 
     - Make sure to select the version specified in the `devcontainer.json` file, as this is the recommended one for the project.
 
-![image-devcontainer](assets/devcontainer-image.png)
+![image-devcontainer](https://github.com/4GeeksAcademy/probability-exercises-project-in-python/blob/main/assets/devcontainer-image.png?raw=true)
 
 > Note: We also incorporated a `./notebook/solutions.ipynb` file that we strongly suggest you only use if you are stuck for more than 30min or if you have already finished and want to compare it with your approach.
 
