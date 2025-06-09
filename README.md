@@ -4,7 +4,7 @@
 
 - Complete the problems using probability and Python.
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
   
 ## 🌱  How to start this project.
 
@@ -15,7 +15,7 @@ Follow the instructions below:
 3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
 
 
-</onlyfor>
+</how-to-start>
 
 
 ## 📝 Instructions
